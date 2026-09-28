@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PUBLIC = ROOT / 'public'
+PUBLIC = ROOT / 'docs'
 CONTENT = PUBLIC / 'content'
 DATA = PUBLIC / 'data'
 CONFIG = DATA / 'site-config.json'

@@ -4,18 +4,15 @@ import os,re
 from http.server import ThreadingHTTPServer,SimpleHTTPRequestHandler
 from pathlib import Path
 ROOT=Path(__file__).resolve().parent.parent
+WWW=ROOT/'docs'
 class Handler(SimpleHTTPRequestHandler):
     def translate_path(self,path):
         from urllib.parse import urlparse,unquote
         p=unquote(urlparse(path).path).lstrip('/')
-        # Vite 风格 public 目录在本地预览时映射到站点根路径
-        if p.startswith('data/') or p.startswith('content/'):
-            target=(ROOT/'public'/p).resolve()
-        else:
-            target=(ROOT/p).resolve()
-        if not str(target).startswith(str(ROOT)): return str(ROOT/'index.html')
+        target=(WWW/p).resolve()
+        if not str(target).startswith(str(WWW)): return str(WWW/'index.html')
         if target.is_file() or target.is_dir(): return str(target)
-        return str(ROOT/'index.html')
+        return str(WWW/'index.html')
     def send_head(self):
         path=self.translate_path(self.path)
         if os.path.isdir(path): path=os.path.join(path,'index.html')
