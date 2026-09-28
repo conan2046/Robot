@@ -1,0 +1,13 @@
+{
+  "title": "示例机器人全身展示",
+  "category": "robot-series-id",
+  "description": "产品外观与动作展示",
+  "tags": [
+    "机器人",
+    "展示"
+  ],
+  "sort": 100,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {}
+}

@@ -1,0 +1,17 @@
+{
+  "title": "胸部腹部",
+  "category": "xiongbu-fubu",
+  "description": "胸部腹部特写",
+  "tags": [
+    "胸部",
+    "腹部"
+  ],
+  "sort": 101,
+  "enabled": true,
+  "type": "detail",
+  "mediaOrientation": {
+	  "胸部腹部特写1":0,
+	  "胸部腹部特写2":0,
+	  "胸部腹部特写3":0	  
+  }
+}

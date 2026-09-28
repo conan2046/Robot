@@ -1,0 +1,18 @@
+{
+  "title": "定制外显",
+  "category": "robot-CustomLook",
+  "description": "定制外显",
+  "tags": [
+    "定制",
+    "外显"
+  ],
+  "sort": 112,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {
+    "灵希": 0,
+    "灵曜": 0,
+    "罗岚": 0,
+    "星野": 0
+  }
+}

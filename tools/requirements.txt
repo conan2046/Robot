@@ -1,0 +1,8 @@
+# 图片尺寸校验（可选）
+Pillow>=10.0
+
+# 视频首帧提取的推荐 Windows 方案：自带可执行 ffmpeg，无需配置系统 PATH
+imageio-ffmpeg>=0.5.1
+
+# 视频宽高/方向的精确校验仍优先使用系统 ffprobe（FFmpeg 套件自带）。
+# 没有 ffprobe 也不影响网站生成或首帧提取。

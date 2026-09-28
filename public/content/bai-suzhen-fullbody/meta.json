@@ -1,0 +1,18 @@
+{
+  "title": "白素贞机器人",
+  "category": "bai-suzhen",
+  "description": "白素贞机器人全身形象与动作展示",
+  "tags": [
+    "白素贞",
+    "机器人",
+    "全身",
+    "动作展示"
+  ],
+  "sort": 10,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {
+    "01-白素贞动作展示": 1,
+    "02-白素贞动作展示": 1
+  }
+}

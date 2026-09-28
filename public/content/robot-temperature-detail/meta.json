@@ -1,0 +1,15 @@
+{
+  "title": "温度展示",
+  "category": "robot-series-id",
+  "description": "温度展示",
+  "tags": [
+    "机器人",
+    "温度"
+  ],
+  "sort": 115,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {
+	  "温度展示":1
+  }
+}

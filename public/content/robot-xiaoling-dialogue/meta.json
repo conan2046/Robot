@@ -1,0 +1,17 @@
+{
+  "title": "小灵陪伴对话",
+  "category": "robot-xiaoling",
+  "description": "小灵陪伴对话",
+  "tags": [
+    "机器人",
+    "小灵"
+  ],
+  "sort": 107,
+  "enabled": true,
+  "type": "dialogue",
+  "mediaOrientation": {
+	  "小灵陪伴对话1":1,
+	  "小灵陪伴对话2":1,
+	  "小灵陪伴对话3":1
+  }
+}

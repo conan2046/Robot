@@ -1,0 +1,15 @@
+{
+  "title": "全功能展示",
+  "category": "robot-full",
+  "description": "全功能展示",
+  "tags": [
+    "机器人",
+    "全功能"
+  ],
+  "sort": 108,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {
+	  "全功能展示":1
+  }
+}

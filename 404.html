@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>加载中…</title>
+  <script>
+    // GitHub Pages SPA 深链兜底：
+    // 访问 /仓库名/category/xxx 这类不存在的路径会 404 到这里，
+    // 把去掉仓库前缀的原始路径编码进 ?p= 参数后跳回站点根（index.html），
+    // 由 index.html 内联脚本用 history.replaceState 还原路由。
+    // segmentCount: 项目页=1（默认）；用户页 username.github.io=0
+    (function () {
+      var segmentCount = 1;
+      var keep = segmentCount + 1;
+      var segs = location.pathname.split('/');
+      var appPath = '/' + segs.slice(keep).join('/') + location.search;
+      var target = segs.slice(0, keep).join('/') + '/?p=' + encodeURIComponent(appPath);
+      location.replace(target);
+    })();
+  </script>
+</head>
+<body>正在跳转…</body>
+</html>

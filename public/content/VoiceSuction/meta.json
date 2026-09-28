@@ -1,0 +1,15 @@
+{
+  "title": "语音控制夹吸",
+  "category": "VoiceSuction",
+  "description": "语音控制夹吸",
+  "tags": [
+    "语音控制",
+    "夹吸"
+  ],
+  "sort": 117,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {
+	  "语音控制夹吸":1
+  }
+}

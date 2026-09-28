@@ -1,0 +1,15 @@
+{
+  "title": "植毛展示",
+  "category": "RootedHair",
+  "description": "植毛展示",
+  "tags": [
+    "机器人",
+    "植毛"
+  ],
+  "sort": 116,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {
+	  "植毛展示":1
+  }
+}

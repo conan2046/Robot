@@ -1,0 +1,15 @@
+{
+  "title": "星野头像",
+  "category": "robot-avatar",
+  "description": "星野头像",
+  "tags": [
+    "机器人",
+    "星野"
+  ],
+  "sort": 114,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {
+	  "星野头像":1
+  }
+}

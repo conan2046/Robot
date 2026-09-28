@@ -1,0 +1,15 @@
+{
+  "title": "梦岚",
+  "category": "robot-menglan",
+  "description": "梦岚",
+  "tags": [
+    "机器人",
+    "梦岚"
+  ],
+  "sort": 111,
+  "enabled": true,
+  "type": "fullbody",
+  "mediaOrientation": {
+	  "梦岚":1
+  }
+}

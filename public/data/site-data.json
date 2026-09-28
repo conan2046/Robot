@@ -1,0 +1,873 @@
+{
+  "site": {
+    "title": "产品展示",
+    "subtitle": "按机器人系列浏览 · 关键词搜索，点击即可查看图片与视频",
+    "footer": "本网站仅用于产品展示，不适合未成年人查看。",
+    "address": "公司上海地址:上海松江区泗泾镇泗砖路639号5幢206室",
+    "phone": "13569688402",
+    "qrCode": "tel:13569688402",
+    "copyright": "© 2026 版权所有",
+    "pageSize": 20,
+    "ageCheck": {
+      "enabled": true,
+      "title": "访问确认",
+      "message": "本站为产品资料库，请确认你理解页面可能包含机器人结构与部件细节展示。",
+      "confirmText": "继续浏览",
+      "exitText": "退出",
+      "exitUrl": "about:blank"
+    },
+    "qrImage": "./data/contact-qr.jpg"
+  },
+  "categories": [
+    {
+      "id": "bai-suzhen",
+      "name": "白素贞机器人",
+      "sort": 10
+    },
+    {
+      "id": "xiongbu-fubu",
+      "name": "胸部腹部",
+      "sort": 101
+    },
+    {
+      "id": "robot-man",
+      "name": "男款下体可以拆卸",
+      "sort": 102
+    },
+    {
+      "id": "robot-xiongburutou",
+      "name": "胸部乳头",
+      "sort": 103
+    },
+    {
+      "id": "robot-xiati",
+      "name": "下体阴部特写",
+      "sort": 104
+    },
+    {
+      "id": "robot-series-id",
+      "name": "女款口交",
+      "sort": 105
+    },
+    {
+      "id": "robot-yinbu",
+      "name": "阴部出水插入",
+      "sort": 106
+    },
+    {
+      "id": "robot-xiaoling",
+      "name": "小灵陪伴对话",
+      "sort": 107
+    },
+    {
+      "id": "robot-full",
+      "name": "全功能展示",
+      "sort": 108
+    },
+    {
+      "id": "robot-maxwoman",
+      "name": "女款顶配腿动",
+      "sort": 109
+    },
+    {
+      "id": "robot-xiongbu",
+      "name": "胸部特写",
+      "sort": 110
+    },
+    {
+      "id": "robot-menglan",
+      "name": "梦岚",
+      "sort": 111
+    },
+    {
+      "id": "robot-CustomLook",
+      "name": "定制外显",
+      "sort": 112
+    },
+    {
+      "id": "robot-avatar",
+      "name": "星野头像",
+      "sort": 114
+    },
+    {
+      "id": "RootedHair",
+      "name": "植毛展示",
+      "sort": 116
+    },
+    {
+      "id": "VoiceSuction",
+      "name": "语音控制夹吸",
+      "sort": 117
+    }
+  ],
+  "types": [
+    {
+      "id": "dialogue",
+      "name": "对话展示",
+      "sort": 1
+    },
+    {
+      "id": "detail",
+      "name": "身体局部特写",
+      "sort": 2
+    },
+    {
+      "id": "fullbody",
+      "name": "全身展示",
+      "sort": 3
+    }
+  ],
+  "products": [
+    {
+      "id": "bai-suzhen-fullbody",
+      "category": "bai-suzhen",
+      "type": "fullbody",
+      "title": "白素贞机器人",
+      "description": "白素贞机器人全身形象与动作展示",
+      "tags": [
+        "白素贞",
+        "机器人",
+        "全身",
+        "动作展示"
+      ],
+      "cover": "./content/bai-suzhen-fullbody/cover.png",
+      "images": [
+        {
+          "title": "01-白素贞全身展示",
+          "url": "./content/bai-suzhen-fullbody/images/01-白素贞全身展示.png",
+          "width": 504,
+          "height": 654,
+          "aspectRatio": 0.770642,
+          "orientation": "portrait"
+        },
+        {
+          "title": "01-白素贞动作展示",
+          "url": "./content/bai-suzhen-fullbody/images/01-白素贞动作展示.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        },
+        {
+          "title": "02-白素贞动作展示",
+          "url": "./content/bai-suzhen-fullbody/images/02-白素贞动作展示.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "01-白素贞动作展示",
+          "url": "./content/bai-suzhen-fullbody/videos/01-白素贞动作展示.mp4",
+          "poster": "./content/bai-suzhen-fullbody/posters/01-白素贞动作展示.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        },
+        {
+          "title": "02-白素贞动作展示",
+          "url": "./content/bai-suzhen-fullbody/videos/02-白素贞动作展示.mp4",
+          "poster": "./content/bai-suzhen-fullbody/posters/02-白素贞动作展示.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 10,
+      "enabled": true
+    },
+    {
+      "id": "xiongbu-fubu-detail",
+      "category": "xiongbu-fubu",
+      "type": "detail",
+      "title": "胸部腹部",
+      "description": "胸部腹部特写",
+      "tags": [
+        "胸部",
+        "腹部"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "胸部腹部特写1",
+          "url": "./content/xiongbu-fubu-detail/images/胸部腹部特写1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "胸部腹部特写2",
+          "url": "./content/xiongbu-fubu-detail/images/胸部腹部特写2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "胸部腹部特写3",
+          "url": "./content/xiongbu-fubu-detail/images/胸部腹部特写3.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "videos": [
+        {
+          "title": "胸部腹部特写1",
+          "url": "./content/xiongbu-fubu-detail/videos/胸部腹部特写1.mp4",
+          "poster": "./content/xiongbu-fubu-detail/posters/胸部腹部特写1.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "胸部腹部特写2",
+          "url": "./content/xiongbu-fubu-detail/videos/胸部腹部特写2.mp4",
+          "poster": "./content/xiongbu-fubu-detail/posters/胸部腹部特写2.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "胸部腹部特写3",
+          "url": "./content/xiongbu-fubu-detail/videos/胸部腹部特写3.mp4",
+          "poster": "./content/xiongbu-fubu-detail/posters/胸部腹部特写3.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "sort": 101,
+      "enabled": true
+    },
+    {
+      "id": "robot-man-fullbody",
+      "category": "robot-man",
+      "type": "fullbody",
+      "title": "男款下体可以拆卸",
+      "description": "男款下体可以拆卸",
+      "tags": [
+        "男款",
+        "下体可以拆卸"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "男款下体可以拆卸1",
+          "url": "./content/robot-man-fullbody/images/男款下体可以拆卸1.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        },
+        {
+          "title": "男款下体可以拆卸2",
+          "url": "./content/robot-man-fullbody/images/男款下体可以拆卸2.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "男款下体可以拆卸1",
+          "url": "./content/robot-man-fullbody/videos/男款下体可以拆卸1.mp4",
+          "poster": "./content/robot-man-fullbody/posters/男款下体可以拆卸1.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        },
+        {
+          "title": "男款下体可以拆卸2",
+          "url": "./content/robot-man-fullbody/videos/男款下体可以拆卸2.mp4",
+          "poster": "./content/robot-man-fullbody/posters/男款下体可以拆卸2.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 102,
+      "enabled": true
+    },
+    {
+      "id": "robot-xiongburutou-detail",
+      "category": "robot-xiongburutou",
+      "type": "detail",
+      "title": "胸部乳头",
+      "description": "胸部乳头特写",
+      "tags": [
+        "胸部",
+        "乳头"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "胸部乳头特写1",
+          "url": "./content/robot-xiongburutou-detail/images/胸部乳头特写1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "胸部乳头特写2",
+          "url": "./content/robot-xiongburutou-detail/images/胸部乳头特写2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "videos": [
+        {
+          "title": "胸部乳头特写1",
+          "url": "./content/robot-xiongburutou-detail/videos/胸部乳头特写1.mp4",
+          "poster": "./content/robot-xiongburutou-detail/posters/胸部乳头特写1.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "胸部乳头特写2",
+          "url": "./content/robot-xiongburutou-detail/videos/胸部乳头特写2.mp4",
+          "poster": "./content/robot-xiongburutou-detail/posters/胸部乳头特写2.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "sort": 103,
+      "enabled": true
+    },
+    {
+      "id": "robot-xiati-detail",
+      "category": "robot-xiati",
+      "type": "detail",
+      "title": "下体阴部特写",
+      "description": "下体阴部特写",
+      "tags": [
+        "下体",
+        "阴部"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "下体阴部特写",
+          "url": "./content/robot-xiati-detail/images/下体阴部特写.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "videos": [
+        {
+          "title": "下体阴部特写",
+          "url": "./content/robot-xiati-detail/videos/下体阴部特写.mp4",
+          "poster": "./content/robot-xiati-detail/posters/下体阴部特写.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "sort": 104,
+      "enabled": true
+    },
+    {
+      "id": "robot-woman-detail",
+      "category": "robot-series-id",
+      "type": "detail",
+      "title": "女款口交",
+      "description": "女款口交",
+      "tags": [
+        "女款",
+        "口交"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "女款口交展示",
+          "url": "./content/robot-woman-detail/images/女款口交展示.jpg",
+          "width": 888,
+          "height": 552,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "videos": [
+        {
+          "title": "女款口交展示",
+          "url": "./content/robot-woman-detail/videos/女款口交展示.mp4",
+          "poster": "./content/robot-woman-detail/posters/女款口交展示.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "sort": 105,
+      "enabled": true
+    },
+    {
+      "id": "robot-yinbu-detail",
+      "category": "robot-yinbu",
+      "type": "detail",
+      "title": "阴部出水插入",
+      "description": "阴部出水插入展示",
+      "tags": [
+        "阴部",
+        "出水"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "阴部出水插入展示",
+          "url": "./content/robot-yinbu-detail/images/阴部出水插入展示.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "videos": [
+        {
+          "title": "阴部出水插入展示",
+          "url": "./content/robot-yinbu-detail/videos/阴部出水插入展示.mp4",
+          "poster": "./content/robot-yinbu-detail/posters/阴部出水插入展示.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "sort": 106,
+      "enabled": true
+    },
+    {
+      "id": "robot-xiaoling-dialogue",
+      "category": "robot-xiaoling",
+      "type": "dialogue",
+      "title": "小灵陪伴对话",
+      "description": "小灵陪伴对话",
+      "tags": [
+        "机器人",
+        "小灵"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "小灵",
+          "url": "./content/robot-xiaoling-dialogue/images/小灵.jpg",
+          "width": 1734,
+          "height": 1077,
+          "aspectRatio": 1.610028,
+          "orientation": "landscape"
+        },
+        {
+          "title": "小灵陪伴对话1",
+          "url": "./content/robot-xiaoling-dialogue/images/小灵陪伴对话1.jpg",
+          "width": 1920,
+          "height": 3414,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        },
+        {
+          "title": "小灵陪伴对话2",
+          "url": "./content/robot-xiaoling-dialogue/images/小灵陪伴对话2.jpg",
+          "width": 1920,
+          "height": 3414,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        },
+        {
+          "title": "小灵陪伴对话3",
+          "url": "./content/robot-xiaoling-dialogue/images/小灵陪伴对话3.jpg",
+          "width": 1920,
+          "height": 3414,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "小灵陪伴对话1",
+          "url": "./content/robot-xiaoling-dialogue/videos/小灵陪伴对话1.mp4",
+          "poster": "./content/robot-xiaoling-dialogue/posters/小灵陪伴对话1.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        },
+        {
+          "title": "小灵陪伴对话2",
+          "url": "./content/robot-xiaoling-dialogue/videos/小灵陪伴对话2.mp4",
+          "poster": "./content/robot-xiaoling-dialogue/posters/小灵陪伴对话2.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        },
+        {
+          "title": "小灵陪伴对话3",
+          "url": "./content/robot-xiaoling-dialogue/videos/小灵陪伴对话3.mp4",
+          "poster": "./content/robot-xiaoling-dialogue/posters/小灵陪伴对话3.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 107,
+      "enabled": true
+    },
+    {
+      "id": "robot-full-fullbody",
+      "category": "robot-full",
+      "type": "fullbody",
+      "title": "全功能展示",
+      "description": "全功能展示",
+      "tags": [
+        "机器人",
+        "全功能"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "全功能展示",
+          "url": "./content/robot-full-fullbody/images/全功能展示.jpg",
+          "width": 720,
+          "height": 992,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "全功能展示",
+          "url": "./content/robot-full-fullbody/videos/全功能展示.mp4",
+          "poster": "./content/robot-full-fullbody/posters/全功能展示.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 108,
+      "enabled": true
+    },
+    {
+      "id": "robot-maxwoman-fullbody",
+      "category": "robot-maxwoman",
+      "type": "fullbody",
+      "title": "女款顶配腿动",
+      "description": "女款顶配腿动",
+      "tags": [
+        "美腿",
+        "女款",
+        "顶配"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "女款顶配腿动",
+          "url": "./content/robot-maxwoman-fullbody/images/女款顶配腿动.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "女款顶配腿动",
+          "url": "./content/robot-maxwoman-fullbody/videos/女款顶配腿动.mp4",
+          "poster": "./content/robot-maxwoman-fullbody/posters/女款顶配腿动.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 109,
+      "enabled": true
+    },
+    {
+      "id": "robot-xiongbu-detail",
+      "category": "robot-xiongbu",
+      "type": "detail",
+      "title": "胸部特写",
+      "description": "胸部特写",
+      "tags": [
+        "机器人",
+        "胸部"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "胸部特写1",
+          "url": "./content/robot-xiongbu-detail/images/胸部特写1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "胸部特写2",
+          "url": "./content/robot-xiongbu-detail/images/胸部特写2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "videos": [
+        {
+          "title": "胸部特写1",
+          "url": "./content/robot-xiongbu-detail/videos/胸部特写1.mp4",
+          "poster": "./content/robot-xiongbu-detail/posters/胸部特写1.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "胸部特写2",
+          "url": "./content/robot-xiongbu-detail/videos/胸部特写2.mp4",
+          "poster": "./content/robot-xiongbu-detail/posters/胸部特写2.jpg",
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "sort": 110,
+      "enabled": true
+    },
+    {
+      "id": "robot-menglan-fullbody",
+      "category": "robot-menglan",
+      "type": "fullbody",
+      "title": "梦岚",
+      "description": "梦岚",
+      "tags": [
+        "机器人",
+        "梦岚"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "梦岚",
+          "url": "./content/robot-menglan-fullbody/images/梦岚.jpg",
+          "width": 1920,
+          "height": 3414,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "梦岚",
+          "url": "./content/robot-menglan-fullbody/videos/梦岚.mp4",
+          "poster": "./content/robot-menglan-fullbody/posters/梦岚.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 111,
+      "enabled": true
+    },
+    {
+      "id": "robot-customlook-fullbody",
+      "category": "robot-CustomLook",
+      "type": "fullbody",
+      "title": "定制外显",
+      "description": "定制外显",
+      "tags": [
+        "定制",
+        "外显"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "星野",
+          "url": "./content/robot-customlook-fullbody/images/星野.jpg",
+          "width": 1752,
+          "height": 1074,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "灵希",
+          "url": "./content/robot-customlook-fullbody/images/灵希.jpg",
+          "width": 1728,
+          "height": 1077,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "灵曜",
+          "url": "./content/robot-customlook-fullbody/images/灵曜.jpg",
+          "width": 1746,
+          "height": 1080,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        },
+        {
+          "title": "罗岚",
+          "url": "./content/robot-customlook-fullbody/images/罗岚.jpg",
+          "width": 1761,
+          "height": 1077,
+          "aspectRatio": 1.777778,
+          "orientation": "landscape"
+        }
+      ],
+      "videos": [],
+      "sort": 112,
+      "enabled": true
+    },
+    {
+      "id": "robot-pigu-detail",
+      "category": "robot-series-id",
+      "type": "fullbody",
+      "title": "屁股展示",
+      "description": "屁股展示",
+      "tags": [
+        "女性",
+        "屁股"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "屁股展示",
+          "url": "./content/robot-pigu-detail/images/屁股展示.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "屁股展示",
+          "url": "./content/robot-pigu-detail/videos/屁股展示.mp4",
+          "poster": "./content/robot-pigu-detail/posters/屁股展示.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 113,
+      "enabled": true
+    },
+    {
+      "id": "robot-avatar-detail",
+      "category": "robot-avatar",
+      "type": "fullbody",
+      "title": "星野头像",
+      "description": "星野头像",
+      "tags": [
+        "机器人",
+        "星野"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "星野头像展示",
+          "url": "./content/robot-avatar-detail/images/星野头像展示.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "星野头像展示",
+          "url": "./content/robot-avatar-detail/videos/星野头像展示.mp4",
+          "poster": "./content/robot-avatar-detail/posters/星野头像展示.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 114,
+      "enabled": true
+    },
+    {
+      "id": "robot-temperature-detail",
+      "category": "robot-series-id",
+      "type": "fullbody",
+      "title": "温度展示",
+      "description": "温度展示",
+      "tags": [
+        "机器人",
+        "温度"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "温度展示",
+          "url": "./content/robot-temperature-detail/images/温度展示.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "温度展示",
+          "url": "./content/robot-temperature-detail/videos/温度展示.mp4",
+          "poster": "./content/robot-temperature-detail/posters/温度展示.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 115,
+      "enabled": true
+    },
+    {
+      "id": "RootedHair",
+      "category": "RootedHair",
+      "type": "fullbody",
+      "title": "植毛展示",
+      "description": "植毛展示",
+      "tags": [
+        "机器人",
+        "植毛"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "植毛展示",
+          "url": "./content/RootedHair/images/植毛展示.jpg",
+          "width": 540,
+          "height": 960,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "植毛展示",
+          "url": "./content/RootedHair/videos/植毛展示.mp4",
+          "poster": "./content/RootedHair/posters/植毛展示.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 116,
+      "enabled": true
+    },
+    {
+      "id": "VoiceSuction",
+      "category": "VoiceSuction",
+      "type": "fullbody",
+      "title": "语音控制夹吸",
+      "description": "语音控制夹吸",
+      "tags": [
+        "语音控制",
+        "夹吸"
+      ],
+      "cover": "",
+      "images": [
+        {
+          "title": "语音控制夹吸",
+          "url": "./content/VoiceSuction/images/语音控制夹吸.jpg",
+          "width": 540,
+          "height": 960,
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "videos": [
+        {
+          "title": "语音控制夹吸",
+          "url": "./content/VoiceSuction/videos/语音控制夹吸.mp4",
+          "poster": "./content/VoiceSuction/posters/语音控制夹吸.jpg",
+          "aspectRatio": 0.5625,
+          "orientation": "portrait"
+        }
+      ],
+      "sort": 117,
+      "enabled": true
+    }
+  ]
+}

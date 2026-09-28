@@ -1,0 +1,16 @@
+{
+  "title": "胸部特写",
+  "category": "robot-xiongbu",
+  "description": "胸部特写",
+  "tags": [
+    "机器人",
+    "胸部"
+  ],
+  "sort": 110,
+  "enabled": true,
+  "type": "detail",
+  "mediaOrientation": {
+	  "胸部特写1":0,
+	  "胸部特写2":0
+  }
+}

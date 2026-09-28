@@ -1,0 +1,53 @@
+[bai-suzhen-fullbody]
+状态：成功 | category=bai-suzhen | type=fullbody | images=3 | videos=2
+
+[robot-avatar-detail]
+状态：成功 | category=robot-avatar | type=fullbody | images=1 | videos=1
+
+[robot-customlook-fullbody]
+状态：成功 | category=robot-CustomLook | type=fullbody | images=4 | videos=0
+
+[robot-full-fullbody]
+状态：成功 | category=robot-full | type=fullbody | images=1 | videos=1
+
+[robot-man-fullbody]
+状态：成功 | category=robot-man | type=fullbody | images=2 | videos=2
+
+[robot-maxwoman-fullbody]
+状态：成功 | category=robot-maxwoman | type=fullbody | images=1 | videos=1
+
+[robot-menglan-fullbody]
+状态：成功 | category=robot-menglan | type=fullbody | images=1 | videos=1
+
+[robot-pigu-detail]
+状态：成功 | category=robot-series-id | type=fullbody | images=1 | videos=1
+
+[robot-temperature-detail]
+状态：成功 | category=robot-series-id | type=fullbody | images=1 | videos=1
+
+[robot-woman-detail]
+状态：成功 | category=robot-series-id | type=detail | images=1 | videos=1
+
+[robot-xiaoling-dialogue]
+状态：成功 | category=robot-xiaoling | type=dialogue | images=4 | videos=3
+
+[robot-xiati-detail]
+状态：成功 | category=robot-xiati | type=detail | images=1 | videos=1
+
+[robot-xiongbu-detail]
+状态：成功 | category=robot-xiongbu | type=detail | images=2 | videos=2
+
+[robot-xiongburutou-detail]
+状态：成功 | category=robot-xiongburutou | type=detail | images=2 | videos=2
+
+[robot-yinbu-detail]
+状态：成功 | category=robot-yinbu | type=detail | images=1 | videos=1
+
+[RootedHair]
+状态：成功 | category=RootedHair | type=fullbody | images=1 | videos=1
+
+[VoiceSuction]
+状态：成功 | category=VoiceSuction | type=fullbody | images=1 | videos=1
+
+[xiongbu-fubu-detail]
+状态：成功 | category=xiongbu-fubu | type=detail | images=3 | videos=3

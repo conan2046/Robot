@@ -1,0 +1,119 @@
+{
+  "site": {
+    "title": "产品展示",
+    "subtitle": "按机器人系列浏览 · 关键词搜索，点击即可查看图片与视频",
+    "footer": "本网站仅用于产品展示，不适合未成年人查看。",
+    "address": "公司上海地址:上海松江区泗泾镇泗砖路639号5幢206室",
+    "phone": "13569688402",
+    "qrCode": "tel:13569688402",
+    "copyright": "© 2026 版权所有",
+    "pageSize": 20,
+    "ageCheck": {
+      "enabled": true,
+      "title": "访问确认",
+      "message": "本站为产品资料库，请确认你理解页面可能包含机器人结构与部件细节展示。",
+      "confirmText": "继续浏览",
+      "exitText": "退出",
+      "exitUrl": "about:blank"
+    }
+  },
+  "categories": [
+    {
+      "id": "bai-suzhen",
+      "name": "白素贞机器人",
+      "sort": 10
+    },
+    {
+      "id": "xiongbu-fubu",
+      "name": "胸部腹部",
+      "sort": 101
+    },
+    {
+      "id": "robot-man",
+      "name": "男款下体可以拆卸",
+      "sort": 102
+    },
+    {
+      "id": "robot-xiongburutou",
+      "name": "胸部乳头",
+      "sort": 103
+    },
+    {
+      "id": "robot-xiati",
+      "name": "下体阴部特写",
+      "sort": 104
+    },
+    {
+      "id": "robot-series-id",
+      "name": "女款口交",
+      "sort": 105
+    },
+    {
+      "id": "robot-yinbu",
+      "name": "阴部出水插入",
+      "sort": 106
+    },
+    {
+      "id": "robot-xiaoling",
+      "name": "小灵陪伴对话",
+      "sort": 107
+    },
+    {
+      "id": "robot-full",
+      "name": "全功能展示",
+      "sort": 108
+    },
+    {
+      "id": "robot-maxwoman",
+      "name": "女款顶配腿动",
+      "sort": 109
+    },
+    {
+      "id": "robot-xiongbu",
+      "name": "胸部特写",
+      "sort": 110
+    },
+    {
+      "id": "robot-menglan",
+      "name": "梦岚",
+      "sort": 111
+    },
+    {
+      "id": "robot-CustomLook",
+      "name": "定制外显",
+      "sort": 112
+    },
+    {
+      "id": "robot-avatar",
+      "name": "星野头像",
+      "sort": 114
+    },
+    {
+      "id": "RootedHair",
+      "name": "植毛展示",
+      "sort": 116
+    },
+    {
+      "id": "VoiceSuction",
+      "name": "语音控制夹吸",
+      "sort": 117
+    }
+  ],
+  "types": [
+    {
+      "id": "dialogue",
+      "name": "对话展示",
+      "sort": 1
+    },
+    {
+      "id": "detail",
+      "name": "身体局部特写",
+      "sort": 2
+    },
+    {
+      "id": "fullbody",
+      "name": "全身展示",
+      "sort": 3
+    }
+  ]
+}
